@@ -50,7 +50,7 @@ The bundled benchmark uses eight evidence questions mapped to eight authoritativ
 |---|---:|
 | Recall@5 | 1.000 |
 | Mean Reciprocal Rank | 1.000 |
-| Automated tests | 9 passing |
+| Automated tests | 11 passing |
 | Indexed reports | 8 |
 | Searchable passages | 235 |
 

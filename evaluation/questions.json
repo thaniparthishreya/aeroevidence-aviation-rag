@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fog_loss_control",
+    "question": "What evidence connected fog and reduced visibility to the loss of control near Sherwood?",
+    "expected_document_ids": ["NTSB-WPR09FA175"],
+    "filters": {"ntsb_number": "WPR09FA175"},
+    "top_k": 5
+  },
+  {
+    "id": "sfo_incursion_geometry",
+    "question": "How did the complex taxiway intersection contribute to the San Francisco runway incursion?",
+    "expected_document_ids": ["NTSB-OPS17IA008"],
+    "filters": {"location": "San Francisco, California"},
+    "top_k": 5
+  },
+  {
+    "id": "dallas_communications",
+    "question": "What communication errors led to the Dallas runway incursion?",
+    "expected_document_ids": ["NTSB-OPS16IA008"],
+    "filters": {"ntsb_number": "OPS16IA008"},
+    "top_k": 5
+  },
+  {
+    "id": "engine_power_loss",
+    "question": "What mechanical evidence explained the total loss of engine power near Lemoore?",
+    "expected_document_ids": ["NTSB-WPR11LA380"],
+    "filters": {"topic": "engine failure"},
+    "top_k": 5
+  },
+  {
+    "id": "helicopter_imc",
+    "question": "What factors contributed to spatial disorientation in the air medical helicopter accident?",
+    "expected_document_ids": ["NTSB-ERA16FA140"],
+    "filters": {"aircraft_category": "Helicopter"},
+    "top_k": 5
+  },
+  {
+    "id": "alaska_weather",
+    "question": "How did rapidly worsening snow and visibility affect the Ketchikan flight?",
+    "expected_document_ids": ["NTSB-ANC12LA026"],
+    "filters": {"location": "Ketchikan, Alaska"},
+    "top_k": 5
+  },
+  {
+    "id": "vfr_imc_decision",
+    "question": "How did the decision to continue VFR flight into instrument conditions lead to terrain impact?",
+    "expected_document_ids": ["NTSB-WPR14FA286"],
+    "filters": {"ntsb_number": "WPR14FA286"},
+    "top_k": 5
+  },
+  {
+    "id": "icing_deice",
+    "question": "What does the report say about ice accumulation, stall risk, and activation of deice boots?",
+    "expected_document_ids": ["NTSB-WPR26LA126"],
+    "filters": {"weather_conditions": "Icing"},
+    "top_k": 5
+  }
+]
+

@@ -1,0 +1,59 @@
+[
+  {
+    "document_id": "NTSB-WPR09FA175",
+    "report_id": "73583",
+    "title": "Loss of Control in Fog — WPR09FA175",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/73583/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2009-04-01", "location": "Sherwood, Oregon", "aircraft_make": "Piper", "aircraft_model": "PA-22-150", "aircraft_category": "Airplane", "operation_type": "Part 91 Personal", "injury_severity": "Fatal", "weather_conditions": "IMC", "flight_phase": "Cruise", "document_type": "Final accident report", "ntsb_number": "WPR09FA175", "topic": ["weather", "loss of control", "fog"]}
+  },
+  {
+    "document_id": "NTSB-OPS17IA008",
+    "report_id": "94512",
+    "title": "Runway Incursion at San Francisco — OPS17IA008",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94512/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2016-12-14", "location": "San Francisco, California", "aircraft_make": "Bombardier / Boeing", "aircraft_model": "CL-600 / 737", "aircraft_category": "Airplane", "operation_type": "Part 121 Scheduled", "injury_severity": "None", "weather_conditions": "Not material", "flight_phase": "Taxi", "document_type": "Final incident report", "ntsb_number": "OPS17IA008", "topic": ["runway incursion", "airport design", "taxi"]}
+  },
+  {
+    "document_id": "NTSB-OPS16IA008",
+    "report_id": "93000",
+    "title": "Runway Incursion at Dallas — OPS16IA008",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93000/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2016-04-07", "location": "Dallas, Texas", "aircraft_make": "Embraer / Boeing", "aircraft_model": "EMB-505 / 737-823", "aircraft_category": "Airplane", "operation_type": "Part 121 / Part 135", "injury_severity": "None", "weather_conditions": "Not material", "flight_phase": "Takeoff / Taxi", "document_type": "Final incident report", "ntsb_number": "OPS16IA008", "topic": ["runway incursion", "communications", "air traffic control"]}
+  },
+  {
+    "document_id": "NTSB-WPR11LA380",
+    "report_id": "81476",
+    "title": "Total Engine Power Loss — WPR11LA380",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/81476/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2011-08-14", "location": "Lemoore, California", "aircraft_make": "Beech", "aircraft_model": "B36TC", "aircraft_category": "Airplane", "operation_type": "Part 91 Personal", "injury_severity": "None", "weather_conditions": "VMC", "flight_phase": "Cruise", "document_type": "Final accident report", "ntsb_number": "WPR11LA380", "topic": ["engine failure", "forced landing", "maintenance"]}
+  },
+  {
+    "document_id": "NTSB-ERA16FA140",
+    "report_id": "92894",
+    "title": "Helicopter VFR Encounter with IMC — ERA16FA140",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92894/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2016-03-26", "location": "Enterprise, Alabama", "aircraft_make": "Eurocopter", "aircraft_model": "AS350 B2", "aircraft_category": "Helicopter", "operation_type": "Part 135 Air Medical", "injury_severity": "Fatal", "weather_conditions": "IMC", "flight_phase": "Initial climb", "document_type": "Final accident report", "ntsb_number": "ERA16FA140", "topic": ["weather", "spatial disorientation", "air medical"]}
+  },
+  {
+    "document_id": "NTSB-ANC12LA026",
+    "report_id": "83129",
+    "title": "VFR Encounter with IMC in Alaska — ANC12LA026",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83129/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2012-03-13", "location": "Ketchikan, Alaska", "aircraft_make": "de Havilland", "aircraft_model": "DHC-2", "aircraft_category": "Airplane", "operation_type": "Part 135 On-demand", "injury_severity": "Serious", "weather_conditions": "IMC", "flight_phase": "Maneuvering", "document_type": "Final accident report", "ntsb_number": "ANC12LA026", "topic": ["weather", "CFIT", "Alaska"]}
+  },
+  {
+    "document_id": "NTSB-WPR14FA286",
+    "report_id": "89622",
+    "title": "Continued VFR Flight into IMC — WPR14FA286",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89622/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2014-07-07", "location": "Arizona", "aircraft_category": "Airplane", "operation_type": "Part 91 Personal", "injury_severity": "Fatal", "weather_conditions": "IMC", "flight_phase": "Cruise", "document_type": "Final accident report", "ntsb_number": "WPR14FA286", "topic": ["weather", "CFIT", "decision making"]}
+  },
+  {
+    "document_id": "NTSB-WPR26LA126",
+    "report_id": "202644",
+    "title": "In-flight Icing Event — WPR26LA126",
+    "source_url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/202644/pdf",
+    "metadata": {"source_agency": "NTSB", "record_status": "Final", "event_date": "2026", "location": "Arizona", "aircraft_category": "Airplane", "operation_type": "Part 91", "injury_severity": "Minor", "weather_conditions": "Icing", "flight_phase": "Approach", "document_type": "Final accident report", "ntsb_number": "WPR26LA126", "topic": ["icing", "loss of control", "deicing"]}
+  }
+]
+
